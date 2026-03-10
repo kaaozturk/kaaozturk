@@ -20,4 +20,5 @@ Python • SQL • R • Power BI • Data Analytics • Machine Learning • ES
 
 ## Links
 LinkedIn: https://www.linkedin.com/in/ozturkaan/
+
 RPubs: https://rpubs.com/kaaozturk
