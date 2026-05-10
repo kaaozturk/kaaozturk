@@ -17,6 +17,8 @@ Python • SQL • R • Power BI • Data Analytics • Machine Learning • ES
 - Electric Vehicle Performance Analysis using PCA
 - European Airport Traffic Profiles
 - Association Patterns Between Medical Conditions and Drug Classes
+- Supply Chain Simulation Framework in R
+- Web Scraping & Real Estate Market Analysis in Poland 🇵🇱
 
 ## Links
 LinkedIn: https://www.linkedin.com/in/ozturkaan/
