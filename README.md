@@ -21,11 +21,15 @@ Software Engineer and MSc student in **Data Science and Business Analytics at th
 
 ## Projects
 
-### Financial & Cash Flow Management Systems
-Development of enterprise financial software covering cash-flow management, banking transactions, forecasting, credit facilities, receivables/payables, and ERP-integrated workflows.
+### Nakış — Cash Flow Management System
+Cash flow, credit, invoicing, stock, and order management SaaS built for SMEs.
+🔗 https://nakis-dev.trasta.com.tr
+**Role:** Full-stack development (Laravel · React/Next.js) 
 
 ### Vireon AI — ESG & Sustainability Platform
-Development of an ESG platform covering sustainability reporting, ESG scoring, carbon management, financial sustainability, and AI-assisted analytics.
+ESG scoring, carbon management, and AI-assisted sustainability reporting.
+🔗 https://vireon.trastaesg.com
+**Role:** Full-stack + AI integration
 
 ### Financial Transactions Risk Classification
 Machine learning-based analysis and classification of financial transaction risk.
