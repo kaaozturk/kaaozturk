@@ -38,5 +38,4 @@ Personal project using image processing to transform invoice images into structu
 
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan%20Öztürk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozturkaan/)
-[![RPubs](https://img.shields.io/badge/RPubs-Profile-276DC3?logo=r&logoColor=white)](https://rpubs.com/kaaozturk)
+[LinkedIn](https://www.linkedin.com/in/ozturkaan/) · [RPubs](https://rpubs.com/kaaozturk)
