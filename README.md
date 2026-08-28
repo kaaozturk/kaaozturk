@@ -23,12 +23,16 @@ Software Engineer and MSc student in **Data Science and Business Analytics at th
 
 ### Nakış — Cash Flow Management System
 Cash flow, credit, invoicing, stock, and order management SaaS built for SMEs.
+
 🔗 https://nakis-dev.trasta.com.tr
+
 **Role:** Full-stack development (Laravel · React/Next.js) 
 
 ### Vireon AI — ESG & Sustainability Platform
 ESG scoring, carbon management, and AI-assisted sustainability reporting.
+
 🔗 https://vireon.trastaesg.com
+
 **Role:** Full-stack + AI integration
 
 ### Financial Transactions Risk Classification
