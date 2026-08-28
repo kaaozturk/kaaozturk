@@ -12,6 +12,8 @@ Software Engineer and MSc student in **Data Science and Business Analytics at th
 
 ## Tech Stack
 
+[![Tech Stack](https://skillicons.dev/icons?i=ts,js,php,laravel,react,nextjs,python,r,mysql,postgres,git,linux)](https://skillicons.dev)
+
 **Software Engineering:** TypeScript · JavaScript · PHP · Laravel · React · Next.js · REST APIs  
 **Data & AI:** Python · R · SQL · Machine Learning · Data Analytics  
 **Databases & Tools:** MySQL · PostgreSQL · Git · Linux · DigitalOcean · Azure DevOps  
@@ -36,4 +38,5 @@ Personal project using image processing to transform invoice images into structu
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/ozturkaan/) · [RPubs](https://rpubs.com/kaaozturk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan%20Öztürk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozturkaan/)
+[![RPubs](https://img.shields.io/badge/RPubs-Profile-276DC3?logo=r&logoColor=white)](https://rpubs.com/kaaozturk)
